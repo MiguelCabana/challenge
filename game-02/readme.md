@@ -26,7 +26,7 @@ Installation and Usage
 Clone the repository:
 
 bash
-git clone https://your-repository-url.git
+git clone https://github.com/MiguelCabana/challenge/tree/main/game-02
 cd gildedrose
 Install TypeScript dependencies:
 
@@ -101,7 +101,7 @@ Instalación y Uso
 Clonar el repositorio:
 
 bash
-git clone https://tu-repositorio-url.git
+git clone https://github.com/MiguelCabana/challenge/tree/main/game-02
 cd gildedrose
 Instalar las dependencias de TypeScript:
 
